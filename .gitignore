@@ -1,0 +1,8 @@
+# file to ignore
+Schedule/text_file.txt
+__pycache__
+credential.json
+agenda/clien_secret.json
+agenda/credential.json
+__init__.py
+.DS_Store
