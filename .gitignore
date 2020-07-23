@@ -6,3 +6,4 @@ agenda/clien_secret.json
 agenda/credential.json
 __init__.py
 .DS_Store
+.idea
